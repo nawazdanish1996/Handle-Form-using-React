@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Handle-Form-using-React/static/css/main.1d766016.css",
+    "main.js": "/Handle-Form-using-React/static/js/main.c14ccf8b.js",
+    "static/js/787.6563e831.chunk.js": "/Handle-Form-using-React/static/js/787.6563e831.chunk.js",
+    "index.html": "/Handle-Form-using-React/index.html",
+    "main.1d766016.css.map": "/Handle-Form-using-React/static/css/main.1d766016.css.map",
+    "main.c14ccf8b.js.map": "/Handle-Form-using-React/static/js/main.c14ccf8b.js.map",
+    "787.6563e831.chunk.js.map": "/Handle-Form-using-React/static/js/787.6563e831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.c14ccf8b.js"
+  ]
+}
